@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Document</title>
+    </head>
+    <body bgcolor="#a9a9a9">
+        <h1 align="center">PORTFOLIO</h1>
+        <br>
+        <hr>
+        <br>
+        <table border="0" width="100%">
+            <tr>
+                <th><img src="bg.jpg" alt="" width="100" align="center"></th>
+                <td align="right"><a href="#home"><h3>Home</h3></a></td>
+                <td align="right"><a href="#about"><h3>About me</h3></a></td>
+                <td align="center">
+                    <form action="process.php" method="post">
+                        <label><strong></strong></label>
+                        <input type="text" name="Search" placeholder="Search">
+                        <input type="submit" name="Search" placeholder="Search">
+                    </form>
+                </td>
+            </tr>
+        </table>
+        <br>
+        <hr>
+        <br>
+        <br>
+        <br>
+        <br>
+        <table border="0" width="100%" id="home">
+            <tbody>
+                <tr>
+                    <td align="center"><img src="cer.webp" alt="" width="300">Certificate</td>
+                    <td align="center"><img src="cer.webp" alt="" width="300">Certificate</td>
+                    <td align="center"><img src="cer.webp" alt="" width="300">Certificate</td>
+                    <td align="center"><img src="cer.webp" alt="" width="300">Certificate</td>
+                </tr>
+            </tbody>
+        </table>
+        <br>
+        <br>
+        <br>
+        <br>
+        <table border="0" width="100%">
+            <tbody>
+                <tr>
+                    <td align="center"><img src="HiRes-17.jpg" alt="" width="300"></td>
+                    <td align="center"><img src="HiRes-17.jpg" alt="" width="300"></td>
+                    <td align="center"><img src="HiRes-17.jpg" alt="" width="300"></td>
+                    <td align="center"><img src="HiRes-17.jpg" alt="" width="300"></td>
+                </tr>
+            </tbody>
+        </table>
+        <br>
+        <br>
+        <br>
+        <hr>
+        <table width="100%">
+            <tr>
+                <td align="center" colspan="2">
+                    <h3 id="about">About Me</h3>
+                </td>
+            </tr>
+        </table>
+        <hr><br>
+        <br>
+        <table width="100%">
+            <tr>
+                <td width="50%" align="center">
+                    <table width="80%" cellpadding="30px">
+                        <tr>
+                            <td align="center">
+                                <h3>Personal Info</h3>
+                                <p>Saveetha Engineering College</p>
+                                <p>AIML Department</p>
+                                <p>III year</p>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td width="50%" align="center">
+                    <table width="80%">
+                        <tr>
+                            <td align="center">
+                                <h3 id="skills">Skills</h3>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center">
+                                <ul style="list-style-type:none; padding:0;">
+                                    <li>Machine Learning</li>
+                                    <li>HTML</li>
+                                    <li>Java Script</li>
+                                    <li>Python</li>
+                                    <li></li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+        <table width="100%">
+            <tr>
+                <td width="50%" align="center">
+                    <table width="80%" cellpadding="20px">
+                        <tr>
+                            <td align="center">
+                                <h3>Experiences</h3>
+                                <p>Internship at Technotran Company</p>
+                                <p>Organised Escape Room event</p>
+                                <p>Won Shark Tank event</p>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td width="50%" align="center">
+                    <table width="80%">
+                        <tr>
+                            <td align="center">
+                                <h3>Contact Me</h3>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center">
+                                <ul style="list-style-type:none; padding:0;">
+                                    <li>
+                                    <h4><a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">koti.saisankar0505@gmail.com</a></h4>
+                                </li>
+                                <li>
+                                    <h4>  <a href="https://github.com/KotiSaiSankar/portfolio_1" target="_blank">Github</a></h4>
+                                </li>
+                                <li>
+                                    <h4>  <a href="https://www.instagram.com/" target="_blank">kotisaisankar0505</a></h4>
+                                </li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <br><br>
+        <footer>
+            <p align="center">
+                &copy; 2024 Koti Sai Sankar | All rights reserved.
+
+            </p>
+            
+        </footer>
+</html>
